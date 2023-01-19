@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JDORTIZ89
-- 👀 I’m interested in Music, Sports, Woodworking, Nature
-- 🌱 I’m currently learning CSharp
-- 💞️ I’m looking to collaborate on... not sure yet. I am a beginner into coding. 
+- 👀 I’m interested in Music, Mountain Biking, being a Dad, home projects.
+- 🌱 I’m currently learning HTML/CSS/Javascript/React/Node.js/Express
 - 📫 How to reach me... ortizjamesd@gmail.com
 
 <!---
